@@ -10,3 +10,7 @@ The need for more intelligent air conditioning solutions is growing as global te
 - Temperature, humidity, and voltage fluctuations are managed by a robust fuzzy logic controller.
 - The suggested strategy strikes a balance between energy-efficient cooling and user comfort.
 
+---
+
+## Research Paper Link
+https://doi.org/10.1016/j.egyr.2025.09.021
